@@ -1,0 +1,6 @@
+- type: loadoutEffectGroup
+  id: OxygenBreather
+  effects:
+  - !type:SpeciesLoadoutEffect
+    species:
+    - Vulpkanin
