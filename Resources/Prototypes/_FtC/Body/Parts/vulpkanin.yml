@@ -5,7 +5,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Textures/_FtC/Mobs/Species/Vulpkanin/parts.rsi
+    sprite: _FtC/Mobs/Species/Vulpkanin/parts.rsi
 
 - type: entity
   id: TorsoVulpkanin

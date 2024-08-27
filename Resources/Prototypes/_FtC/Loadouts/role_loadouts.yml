@@ -1,0 +1,44 @@
+- type: roleLoadout
+  id: JobSeniorOfficer
+  groups:
+  - SeniorOfficerJumpsuit
+  - SecurityBackpack
+  - SecurityBelt
+  - SecurityTrinkets
+  - SecurityOuterClothing
+  - SecurityShoes
+  - SurvivalSecurity
+  - Trinkets
+
+- type: roleLoadout
+  id: JobSeniorResearcher
+  groups:
+  - SeniorResearcherJumpsuit
+  - ScientistBackpack
+  - ScientistGloves
+  - ScientistShoes
+  - Glasses
+  - Survival
+  - Trinkets
+
+- type: roleLoadout
+  id: JobSeniorPhysician
+  groups:
+  - SeniorPhysicianJumpsuit
+  - MedicalBackpack
+  - MedicalGloves
+  - MedicalMask
+  - MedicalShoes
+  - SurvivalMedical
+  - Trinkets
+  - Glasses
+
+- type: roleLoadout
+  id: JobSeniorEngineer
+  groups:
+  - SeniorEngineerJumpsuit
+  - StationEngineerBackpack
+  - StationEngineerOuterClothing
+  - StationEngineerShoes
+  - SurvivalExtended
+  - Trinkets

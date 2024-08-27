@@ -21,6 +21,7 @@
   weight: 20
   startingGear: CaptainGear
   icon: "JobIconCaptain"
+  displayWeight: 100 #FtC-Edit
   requireAdminNotify: true
   joinNotifyCrew: true
   supervisors: job-supervisors-centcom
