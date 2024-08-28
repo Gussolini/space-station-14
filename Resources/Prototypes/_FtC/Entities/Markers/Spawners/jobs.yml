@@ -45,3 +45,17 @@
     layers:
       - state: green
       - state: seniorofficer
+
+# FtC-Law
+- type: entity
+  id: SpawnPointIAA
+  parent: SpawnPointJobBase
+  name: IAA
+  components:
+  - type: SpawnPoint
+    job_id: IAA # FtC-Law
+  - type: Sprite
+    layers:
+      - state: green
+      - state: lawyer
+

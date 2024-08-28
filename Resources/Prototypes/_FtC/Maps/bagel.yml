@@ -65,4 +65,6 @@
             SeniorPhysician: [ 1, 1 ]
             SeniorResearcher: [ 1, 1 ]
             SeniorOfficer: [ 1, 1 ]
-            
+            # FtC-Law
+            Lawyer: [ 1, 1 ]
+            IAA: [ 1, 1]
